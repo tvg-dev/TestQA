@@ -1,5 +1,6 @@
 ﻿#language: ru
 @tree
+@ExportScenarios
 
 Функционал: Организация
 
