@@ -1,8 +1,6 @@
 ﻿#language: ru
 
 @tree
-@ExportScenarios
-@IgnorOnCIMainBuild
 
 Функционал: Создание Договора с контрагентом 2
 

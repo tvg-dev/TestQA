@@ -1,6 +1,8 @@
 ﻿#language: ru
 
 @tree
+@ExportScenarios
+@IgnorOnCIMainBuild
 
 Функционал: Выды цен 
 
